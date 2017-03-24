@@ -1,2 +1,3 @@
 # hello-world
-This is my first repo on github, I am very excited.
+
+I'm living in Budapest, Hungary. Python and Webassembly are the best.
